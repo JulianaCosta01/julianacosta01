@@ -2,7 +2,7 @@
 
 **`Desenvolvedora de Software | Computação & IA`**
 
-Técnica em Informática para Internet pelo IFMA e estudante de Computação e Inteligência Artificial na UFMA.
+Graduanda de Computação e Inteligência Artificial na UFMA e Técnica em Informática para Internet pelo IFMA.
 
 Integrante do LINT (Laboratório de Inteligência Interativa), com interesse em desenvolvimento de software, inteligência artificial e programação competitiva.
 
