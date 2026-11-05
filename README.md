@@ -4,6 +4,8 @@
 
 <br/>
 
+<br>
+
 **COMPUTAÇÃO E INTELIGÊNCIA ARTIFICIAL · UFMA**
 
 <br/>
@@ -91,20 +93,18 @@ Segurança de APIs, autenticação, controle de acesso, análise de vulnerabilid
 **Conselho Interligas de Robótica do Maranhão**  
 Vice-presidente
 
-**LASEG — Liga Acadêmica de Segurança**  
+**LASEG — Liga Acadêmica de Cibersegurança · UFMA**  
 Vice-presidente
 
-**LACRO — Liga Acadêmica de Robótica**  
+**LACRO — Liga Acadêmica de Robótica · UFMA**  
 Diretora de Pesquisa e Extensão
 
 **LINT — Laboratório de Inteligência Interativa · UFMA**  
-Bolsista de pesquisa em inteligência artificial e personalização inteligente de materiais educacionais.
+Bolsista de pesquisa em inteligência artificial.
 
-**Fábrica de Inovação · FAPEMA**  
-Extensionista em projeto de inovação.
+**Startup Colheitas 4.0 · IFMA**  
+Projeto AgroTech na produção familiar.
 
-**LID — Laboratório de Inclusão Digital**  
-Atuação em iniciativas de inclusão e letramento digital.
 
 ---
 
