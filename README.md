@@ -26,7 +26,7 @@ Também trabalho com segurança de aplicações e exploro visão computacional, 
 
 ## 02. Stack
 
-<sub>LANGUAGES</sub>
+<sub>**LINGUAGENS**</sub>
 
 ![Python](https://img.shields.io/badge/PYTHON-29263F?style=for-the-badge&logo=python&logoColor=C6A8E8)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-29263F?style=for-the-badge&logo=typescript&logoColor=C6A8E8)
@@ -34,13 +34,13 @@ Também trabalho com segurança de aplicações e exploro visão computacional, 
 ![SQL](https://img.shields.io/badge/SQL-29263F?style=for-the-badge&logo=postgresql&logoColor=D8C59A)
 ![C](https://img.shields.io/badge/C-29263F?style=for-the-badge&logo=c&logoColor=C6A8E8)
 
-<sub>BACK-END & APIs</sub>
+<sub>**BACK-END & APIs**</sub>
 
 ![Node.js](https://img.shields.io/badge/NODE.JS-29263F?style=for-the-badge&logo=nodedotjs&logoColor=C6A8E8)
 ![NestJS](https://img.shields.io/badge/NESTJS-29263F?style=for-the-badge&logo=nestjs&logoColor=C6A8E8)
 ![FastAPI](https://img.shields.io/badge/FASTAPI-29263F?style=for-the-badge&logo=fastapi&logoColor=D8C59A)
 
-<sub>DATA & PERSISTENCE</sub>
+<sub>**DADOS & PERSISTÊNCIA**</sub>
 
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-29263F?style=for-the-badge&logo=postgresql&logoColor=C6A8E8)
 ![DuckDB](https://img.shields.io/badge/DUCKDB-29263F?style=for-the-badge&logo=duckdb&logoColor=D8C59A)
@@ -48,19 +48,19 @@ Também trabalho com segurança de aplicações e exploro visão computacional, 
 ![SQLAlchemy](https://img.shields.io/badge/SQLALCHEMY-29263F?style=for-the-badge&logo=sqlalchemy&logoColor=D8C59A)
 ![Prisma](https://img.shields.io/badge/PRISMA-29263F?style=for-the-badge&logo=prisma&logoColor=C6A8E8)
 
-<sub>ARTIFICIAL INTELLIGENCE</sub>
+<sub>**INTELIGÊNCIA ARTIFICIAL**</sub>
 
 ![Gemini](https://img.shields.io/badge/GEMINI-29263F?style=for-the-badge&logo=googlegemini&logoColor=C6A8E8)
 ![LLMs](https://img.shields.io/badge/LLMs-29263F?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_AGENTS-29263F?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/PROMPT_ENGINEERING-29263F?style=for-the-badge)
 
-<sub>COMPUTER VISION</sub>
+<sub>**VISÃO COMPUTACIONAL**</sub>
 
 ![OpenCV](https://img.shields.io/badge/OPENCV-29263F?style=for-the-badge&logo=opencv&logoColor=D8C59A)
 ![NumPy](https://img.shields.io/badge/NUMPY-29263F?style=for-the-badge&logo=numpy&logoColor=C6A8E8)
 
-<sub>INFRASTRUCTURE & SECURITY</sub>
+<sub>**INFRAESTRUTURA & SEGURANÇA**</sub>
 
 ![Docker](https://img.shields.io/badge/DOCKER-29263F?style=for-the-badge&logo=docker&logoColor=C6A8E8)
 ![Keycloak](https://img.shields.io/badge/KEYCLOAK-29263F?style=for-the-badge&logo=keycloak&logoColor=D8C59A)
@@ -72,23 +72,7 @@ Também trabalho com segurança de aplicações e exploro visão computacional, 
 
 ---
 
-## 03. Especialidades
-
-**Back-end & Engenharia de Software**  
-APIs, arquitetura de serviços, integração entre sistemas e processamento assíncrono.
-
-**Inteligência Artificial**  
-LLMs, agentes inteligentes, IA generativa, engenharia de prompts e integração de modelos.
-
-**Dados**  
-Modelagem, processamento, consultas analíticas e persistência de dados.
-
-**Cibersegurança**  
-Segurança de APIs, autenticação, controle de acesso, análise de vulnerabilidades e modelagem de ameaças.
-
----
-
-## 04. Pesquisa & Liderança
+## 03. Pesquisa & Liderança
 
 **Conselho Interligas de Robótica do Maranhão**  
 Vice-presidente
