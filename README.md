@@ -1,70 +1,42 @@
- <div align="center">
+<div align="center">
 
-# JULIANA COSTA
-
-**BACK-END ENGINEERING · DATA · ARTIFICIAL INTELLIGENCE**
-
-Computação e Inteligência Artificial — UFMA
+<img src="./assets/juliana-header.gif" width="100%" alt="Juliana Costa — Desenvolvedora Back-end" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/BACK--END-29263F?style=flat-square&labelColor=29263F&color=C6A8E8" />
-<img src="https://img.shields.io/badge/DATA-29263F?style=flat-square&labelColor=29263F&color=D8C59A" />
-<img src="https://img.shields.io/badge/AI-29263F?style=flat-square&labelColor=29263F&color=B9A5D6" />
-<img src="https://img.shields.io/badge/CYBERSECURITY-29263F?style=flat-square&labelColor=29263F&color=9BAAC8" />
+**COMPUTAÇÃO E INTELIGÊNCIA ARTIFICIAL · UFMA**
+
+<br/>
+
+<sub>BACK-END &nbsp; / &nbsp; DADOS &nbsp; / &nbsp; INTELIGÊNCIA ARTIFICIAL &nbsp; / &nbsp; CIBERSEGURANÇA</sub>
 
 </div>
 
 ---
 
-## 01. Perfil
+## 01. Sobre
 
-Desenvolvo soluções que conectam **engenharia de software, dados e inteligência artificial**. Minha atuação em projetos envolve construção de APIs e serviços, arquitetura back-end, integração de LLMs e agentes inteligentes, processamento e persistência de dados.
+Desenvolvo soluções que conectam **engenharia de software, dados e inteligência artificial**. Minha experiência em projetos envolve desenvolvimento back-end, construção de APIs, integração de LLMs e agentes inteligentes, processamento e persistência de dados.
 
-Também exploro segurança de aplicações, visão computacional e sistemas inteligentes, com interesse em construir soluções tecnicamente consistentes e aplicáveis a problemas reais.
+Também trabalho com segurança de aplicações e exploro visão computacional, buscando conectar diferentes áreas da computação na construção de sistemas inteligentes.
 
 ## 02. Especialidades
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Back-end & Engenharia de Software**  
+APIs, arquitetura de serviços, integração entre sistemas e processamento assíncrono.
 
-**BACK-END & ENGENHARIA DE SOFTWARE**
+**Inteligência Artificial**  
+LLMs, agentes inteligentes, IA generativa, engenharia de prompts e integração de modelos.
 
-APIs e serviços · Arquitetura de software · Integração entre sistemas · Processamento assíncrono · Autenticação e autorização
+**Dados**  
+Modelagem, processamento, consultas analíticas e persistência de dados.
 
-</td>
-<td width="50%" valign="top">
+**Cibersegurança**  
+Segurança de APIs, autenticação, controle de acesso, análise de vulnerabilidades e modelagem de ameaças.
 
-**INTELIGÊNCIA ARTIFICIAL**
+---
 
-LLMs · IA generativa · Agentes inteligentes · Engenharia de prompts · Integração de modelos · Personalização inteligente
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**DADOS**
-
-Modelagem de dados · Processamento e análise · Persistência · Consultas analíticas · Bancos relacionais e analíticos
-
-</td>
-<td width="50%" valign="top">
-
-**CIBERSEGURANÇA**
-
-Segurança de aplicações e APIs · Identidade e controle de acesso · Proteção de tokens · Análise de vulnerabilidades · Modelagem de ameaças
-
-</td>
-</tr>
-</table>
-
-<sub>OUTRAS FRENTES</sub>
-
-Visão computacional · Visualização 3D · IoT · Sistemas embarcados · Desenvolvimento de interfaces.
-
-## 03. Tecnologias
+## 03. Stack
 
 <sub>LINGUAGENS</sub>
 
@@ -73,15 +45,12 @@ Visão computacional · Visualização 3D · IoT · Sistemas embarcados · Desen
 ![JavaScript](https://img.shields.io/badge/JavaScript-29263F?style=flat-square&logo=javascript&logoColor=D8C59A)
 ![SQL](https://img.shields.io/badge/SQL-29263F?style=flat-square&logo=postgresql&logoColor=D8C59A)
 ![C](https://img.shields.io/badge/C-29263F?style=flat-square&logo=c&logoColor=C6A8E8)
-![HTML5](https://img.shields.io/badge/HTML5-29263F?style=flat-square&logo=html5&logoColor=D8C59A)
-![CSS3](https://img.shields.io/badge/CSS3-29263F?style=flat-square&logo=css3&logoColor=C6A8E8)
 
 <sub>BACK-END & APIs</sub>
 
 ![Node.js](https://img.shields.io/badge/Node.js-29263F?style=flat-square&logo=nodedotjs&logoColor=C6A8E8)
 ![NestJS](https://img.shields.io/badge/NestJS-29263F?style=flat-square&logo=nestjs&logoColor=C6A8E8)
 ![FastAPI](https://img.shields.io/badge/FastAPI-29263F?style=flat-square&logo=fastapi&logoColor=D8C59A)
-![REST](https://img.shields.io/badge/REST_APIs-29263F?style=flat-square&color=29263F)
 
 <sub>DADOS & PERSISTÊNCIA</sub>
 
@@ -102,7 +71,6 @@ Visão computacional · Visualização 3D · IoT · Sistemas embarcados · Desen
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-29263F?style=flat-square&logo=opencv&logoColor=D8C59A)
 ![NumPy](https://img.shields.io/badge/NumPy-29263F?style=flat-square&logo=numpy&logoColor=C6A8E8)
-![Three.js](https://img.shields.io/badge/Three.js-29263F?style=flat-square&logo=threedotjs&logoColor=D8C59A)
 
 <sub>INFRAESTRUTURA & SEGURANÇA</sub>
 
@@ -114,11 +82,7 @@ Visão computacional · Visualização 3D · IoT · Sistemas embarcados · Desen
 ![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-29263F?style=flat-square&color=29263F)
 ![Render](https://img.shields.io/badge/Render-29263F?style=flat-square&logo=render&logoColor=D8C59A)
 
-<sub>FERRAMENTAS & SISTEMAS EMBARCADOS</sub>
-
-![Git](https://img.shields.io/badge/Git-29263F?style=flat-square&logo=git&logoColor=D8C59A)
-![GitHub](https://img.shields.io/badge/GitHub-29263F?style=flat-square&logo=github&logoColor=C6A8E8)
-![ESP32](https://img.shields.io/badge/ESP32-29263F?style=flat-square&logo=espressif&logoColor=C6A8E8)
+---
 
 ## 04. Pesquisa & Liderança
 
@@ -131,18 +95,14 @@ Vice-presidente
 **LACRO — Liga Acadêmica de Robótica**  
 Diretora de Pesquisa e Extensão
 
-**LINT — Laboratório de Inteligência Interativa | UFMA**  
+**LINT — Laboratório de Inteligência Interativa · UFMA**  
 Bolsista de pesquisa em inteligência artificial e personalização inteligente de materiais educacionais.
 
-**Fábrica de Inovação — FAPEMA**  
+**Fábrica de Inovação · FAPEMA**  
 Extensionista em projeto de inovação.
 
 **LID — Laboratório de Inclusão Digital**  
 Atuação em iniciativas de inclusão e letramento digital.
-
-## 05. Interesses técnicos
-
-`Machine Learning` · `Deep Learning` · `Data Engineering` · `Computer Vision` · `Cloud Security` · `Embedded Systems`
 
 ---
 
