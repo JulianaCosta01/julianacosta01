@@ -38,49 +38,51 @@ Segurança de APIs, autenticação, controle de acesso, análise de vulnerabilid
 
 ## 03. Stack
 
-<sub>LINGUAGENS</sub>
+## 03. Stack
 
-![Python](https://img.shields.io/badge/Python-29263F?style=flat-square&logo=python&logoColor=C6A8E8)
-![TypeScript](https://img.shields.io/badge/TypeScript-29263F?style=flat-square&logo=typescript&logoColor=C6A8E8)
-![JavaScript](https://img.shields.io/badge/JavaScript-29263F?style=flat-square&logo=javascript&logoColor=D8C59A)
-![SQL](https://img.shields.io/badge/SQL-29263F?style=flat-square&logo=postgresql&logoColor=D8C59A)
-![C](https://img.shields.io/badge/C-29263F?style=flat-square&logo=c&logoColor=C6A8E8)
+<sub>LANGUAGES</sub>
+
+![Python](https://img.shields.io/badge/PYTHON-29263F?style=for-the-badge&logo=python&logoColor=C6A8E8)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-29263F?style=for-the-badge&logo=typescript&logoColor=C6A8E8)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-29263F?style=for-the-badge&logo=javascript&logoColor=D8C59A)
+![SQL](https://img.shields.io/badge/SQL-29263F?style=for-the-badge&logo=postgresql&logoColor=D8C59A)
+![C](https://img.shields.io/badge/C-29263F?style=for-the-badge&logo=c&logoColor=C6A8E8)
 
 <sub>BACK-END & APIs</sub>
 
-![Node.js](https://img.shields.io/badge/Node.js-29263F?style=flat-square&logo=nodedotjs&logoColor=C6A8E8)
-![NestJS](https://img.shields.io/badge/NestJS-29263F?style=flat-square&logo=nestjs&logoColor=C6A8E8)
-![FastAPI](https://img.shields.io/badge/FastAPI-29263F?style=flat-square&logo=fastapi&logoColor=D8C59A)
+![Node.js](https://img.shields.io/badge/NODE.JS-29263F?style=for-the-badge&logo=nodedotjs&logoColor=C6A8E8)
+![NestJS](https://img.shields.io/badge/NESTJS-29263F?style=for-the-badge&logo=nestjs&logoColor=C6A8E8)
+![FastAPI](https://img.shields.io/badge/FASTAPI-29263F?style=for-the-badge&logo=fastapi&logoColor=D8C59A)
 
-<sub>DADOS & PERSISTÊNCIA</sub>
+<sub>DATA & PERSISTENCE</sub>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-29263F?style=flat-square&logo=postgresql&logoColor=C6A8E8)
-![DuckDB](https://img.shields.io/badge/DuckDB-29263F?style=flat-square&logo=duckdb&logoColor=D8C59A)
-![Supabase](https://img.shields.io/badge/Supabase-29263F?style=flat-square&logo=supabase&logoColor=C6A8E8)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-29263F?style=flat-square&logo=sqlalchemy&logoColor=D8C59A)
-![Prisma](https://img.shields.io/badge/Prisma-29263F?style=flat-square&logo=prisma&logoColor=C6A8E8)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-29263F?style=for-the-badge&logo=postgresql&logoColor=C6A8E8)
+![DuckDB](https://img.shields.io/badge/DUCKDB-29263F?style=for-the-badge&logo=duckdb&logoColor=D8C59A)
+![Supabase](https://img.shields.io/badge/SUPABASE-29263F?style=for-the-badge&logo=supabase&logoColor=C6A8E8)
+![SQLAlchemy](https://img.shields.io/badge/SQLALCHEMY-29263F?style=for-the-badge&logo=sqlalchemy&logoColor=D8C59A)
+![Prisma](https://img.shields.io/badge/PRISMA-29263F?style=for-the-badge&logo=prisma&logoColor=C6A8E8)
 
-<sub>INTELIGÊNCIA ARTIFICIAL</sub>
+<sub>ARTIFICIAL INTELLIGENCE</sub>
 
-![Gemini](https://img.shields.io/badge/Gemini-29263F?style=flat-square&logo=googlegemini&logoColor=C6A8E8)
-![LLMs](https://img.shields.io/badge/LLMs-29263F?style=flat-square&color=29263F)
-![AI Agents](https://img.shields.io/badge/AI_Agents-29263F?style=flat-square&color=29263F)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-29263F?style=flat-square&color=29263F)
+![Gemini](https://img.shields.io/badge/GEMINI-29263F?style=for-the-badge&logo=googlegemini&logoColor=C6A8E8)
+![LLMs](https://img.shields.io/badge/LLMs-29263F?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_AGENTS-29263F?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/PROMPT_ENGINEERING-29263F?style=for-the-badge)
 
-<sub>VISÃO COMPUTACIONAL & COMPUTAÇÃO NUMÉRICA</sub>
+<sub>COMPUTER VISION</sub>
 
-![OpenCV](https://img.shields.io/badge/OpenCV-29263F?style=flat-square&logo=opencv&logoColor=D8C59A)
-![NumPy](https://img.shields.io/badge/NumPy-29263F?style=flat-square&logo=numpy&logoColor=C6A8E8)
+![OpenCV](https://img.shields.io/badge/OPENCV-29263F?style=for-the-badge&logo=opencv&logoColor=D8C59A)
+![NumPy](https://img.shields.io/badge/NUMPY-29263F?style=for-the-badge&logo=numpy&logoColor=C6A8E8)
 
-<sub>INFRAESTRUTURA & SEGURANÇA</sub>
+<sub>INFRASTRUCTURE & SECURITY</sub>
 
-![Docker](https://img.shields.io/badge/Docker-29263F?style=flat-square&logo=docker&logoColor=C6A8E8)
-![Keycloak](https://img.shields.io/badge/Keycloak-29263F?style=flat-square&logo=keycloak&logoColor=D8C59A)
-![JWT](https://img.shields.io/badge/JWT-29263F?style=flat-square&color=29263F)
-![JWKS](https://img.shields.io/badge/JWKS-29263F?style=flat-square&color=29263F)
-![RBAC](https://img.shields.io/badge/RBAC-29263F?style=flat-square&color=29263F)
-![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-29263F?style=flat-square&color=29263F)
-![Render](https://img.shields.io/badge/Render-29263F?style=flat-square&logo=render&logoColor=D8C59A)
+![Docker](https://img.shields.io/badge/DOCKER-29263F?style=for-the-badge&logo=docker&logoColor=C6A8E8)
+![Keycloak](https://img.shields.io/badge/KEYCLOAK-29263F?style=for-the-badge&logo=keycloak&logoColor=D8C59A)
+![JWT](https://img.shields.io/badge/JWT-29263F?style=for-the-badge)
+![JWKS](https://img.shields.io/badge/JWKS-29263F?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/RBAC-29263F?style=for-the-badge)
+![Rate Limiting](https://img.shields.io/badge/RATE_LIMITING-29263F?style=for-the-badge)
+![Render](https://img.shields.io/badge/RENDER-29263F?style=for-the-badge&logo=render&logoColor=D8C59A)
 
 ---
 
