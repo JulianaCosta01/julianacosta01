@@ -22,25 +22,9 @@ Desenvolvo soluções que conectam **engenharia de software, dados e inteligênc
 
 Também trabalho com segurança de aplicações e exploro visão computacional, buscando conectar diferentes áreas da computação na construção de sistemas inteligentes.
 
-## 02. Especialidades
-
-**Back-end & Engenharia de Software**  
-APIs, arquitetura de serviços, integração entre sistemas e processamento assíncrono.
-
-**Inteligência Artificial**  
-LLMs, agentes inteligentes, IA generativa, engenharia de prompts e integração de modelos.
-
-**Dados**  
-Modelagem, processamento, consultas analíticas e persistência de dados.
-
-**Cibersegurança**  
-Segurança de APIs, autenticação, controle de acesso, análise de vulnerabilidades e modelagem de ameaças.
-
 ---
 
-## 03. Stack
-
-## 03. Stack
+## 02. Stack
 
 <sub>LANGUAGES</sub>
 
@@ -85,6 +69,22 @@ Segurança de APIs, autenticação, controle de acesso, análise de vulnerabilid
 ![RBAC](https://img.shields.io/badge/RBAC-29263F?style=for-the-badge)
 ![Rate Limiting](https://img.shields.io/badge/RATE_LIMITING-29263F?style=for-the-badge)
 ![Render](https://img.shields.io/badge/RENDER-29263F?style=for-the-badge&logo=render&logoColor=D8C59A)
+
+---
+
+## 03. Especialidades
+
+**Back-end & Engenharia de Software**  
+APIs, arquitetura de serviços, integração entre sistemas e processamento assíncrono.
+
+**Inteligência Artificial**  
+LLMs, agentes inteligentes, IA generativa, engenharia de prompts e integração de modelos.
+
+**Dados**  
+Modelagem, processamento, consultas analíticas e persistência de dados.
+
+**Cibersegurança**  
+Segurança de APIs, autenticação, controle de acesso, análise de vulnerabilidades e modelagem de ameaças.
 
 ---
 
