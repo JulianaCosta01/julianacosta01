@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/juliana-header.gif" width="100%" alt="Juliana Costa — Desenvolvedora Back-end" />
+<img src="./assetsjuliana-header.gif" width="100%" alt="Juliana Costa — Desenvolvedora Back-end" />
 
 <br/>
 
